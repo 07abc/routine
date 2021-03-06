@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <div className="marquee">
-      <p>Notice Box and Comment Box is Coming</p>
+      <p>Notice Box and Comment Box are Coming</p>
     </div>
   )
 }
