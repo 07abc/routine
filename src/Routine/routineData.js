@@ -10,7 +10,7 @@ export const routineData = {
 
       Meeting_ID: "648 1039 3536",
       Password: "201",
-      comment: "Display Name: 1804200 Name, Attandance: From Participant List",
+      comment: "Display Name: 1804200 Name, attendance: From Participant List",
     },
     {
       courseTime: "10.00 am",
@@ -22,7 +22,7 @@ export const routineData = {
 
       Meeting_ID: "618 9088 9408 ",
       Password: "978492",
-      comment: "Display Name: 1804200 Name, Attandance: From Participant List",
+      comment: "Display Name: 1804200 Name, attendance: From Participant List",
     },
     {
       courseTime: "11.00 am",
@@ -34,7 +34,7 @@ export const routineData = {
 
       Meeting_ID: "627 2139 4328 ",
       Password: "123456",
-      comment: "Display Name: 1804200 Name, Attandance: From Participant List",
+      comment: "Display Name: 1804200 Name, attendance: From Participant List",
     },
   ],
   Sun: [
@@ -60,7 +60,7 @@ export const routineData = {
 
       Meeting_ID: "618 9088 9408",
       Password: "978492",
-      comment: "Display Name: 1804200 Name, Attandance: From Participant List",
+      comment: "Display Name: 1804200 Name, attendance: From Participant List",
     },
     {
       courseTime: "11.00 am",
@@ -72,7 +72,7 @@ export const routineData = {
 
       Meeting_ID: "707 498 1335",
       Password: "2021",
-      comment: "Display Name: 1804200, Attandance: From Participant List",
+      comment: "Display Name: 1804200, attendance: From Participant List",
     },
     {
       courseTime: "12.00 pm",
@@ -109,7 +109,7 @@ export const routineData = {
 
       Meeting_ID: "707 498 1335",
       Password: "2021",
-      comment: "Display Name: 1804200 , Attandance: From Participant List",
+      comment: "Display Name: 1804200 , attendance: From Participant List",
     },
     {
       courseTime: "11.00 am",
@@ -121,7 +121,7 @@ export const routineData = {
 
       Meeting_ID: "675 0145 0536",
       Password: "224488",
-      comment: "Display Name: 1804200 Name, Attandance: From Participant List",
+      comment: "Display Name: 1804200 Name, attendance: From Participant List",
     },
     {
       courseTime: "12.00 pm",
@@ -171,7 +171,7 @@ export const routineData = {
 
       Meeting_ID: "707 498 1335",
       Password: "2021",
-      comment: "Display Name: 1804200 , Attandance: From Participant List",
+      comment: "Display Name: 1804200 , attendance: From Participant List",
     },
     {
       courseTime: "11.00 am",
